@@ -8,3 +8,4 @@ thor 7
 thor 8
 thor 99
 thor 98
+thor 10
